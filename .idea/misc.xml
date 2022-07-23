@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1620448613328.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1620455206728.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620460263370.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620487429035.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620550736968.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1620554367408.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1620555308020.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1620555794576.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1620559087985.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620565850405.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620570767990.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620655556342.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620711952774.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620712425906.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620712624605.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1620717278794.xml" value="0.20650337837837837" />
+        <entry key="../../../../layout/compose-model-1620882679998.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620890439955.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620890749937.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1620912716403.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620977207343.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1621495769969.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1621513155547.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1621526620151.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1621526680169.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1621581072626.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1621584093222.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1621605101950.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1621608180387.xml" value="0.21621621621621623" />
+        <entry key="../../../../layout/compose-model-1621780549886.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1621837586833.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1621839333392.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1621839397234.xml" value="0.19130067567567569" />
+        <entry key="../../../../layout/compose-model-1621871043167.xml" value="0.35185185185185186" />
+        <entry key="../../../../layout/compose-model-1622005353175.xml" value="1.0" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol_night.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol_pale_blue.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol_pink.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol_pink_night.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flask_sol_wine_red.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/venky/AndroidStudioProjects/VLabsChemistryMVGR/app/src/main/res/drawable/flasks.xml" value="0.23692307692307693" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

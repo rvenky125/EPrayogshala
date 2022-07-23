@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135132298205",
+    "firebase_url": "https://vlabs-chemistry-mvgr-default-rtdb.firebaseio.com",
+    "project_id": "vlabs-chemistry-mvgr",
+    "storage_bucket": "vlabs-chemistry-mvgr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135132298205:android:1dd2f05c9730447773d434",
+        "android_client_info": {
+          "package_name": "com.famas.vlabschemistrymvgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135132298205-0hen1s212bhvu7lnvedql6di7p1d8dea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHKQhP1Oq7AIKo2AP7v2qwRnxESdano8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135132298205-0hen1s212bhvu7lnvedql6di7p1d8dea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

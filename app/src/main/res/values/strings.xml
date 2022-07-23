@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-Prayogshala</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="title_activity_potentio_metric">PotentioMetric Titration</string>
+    <string name="title_activity_colorimetric">Colorimetric Titration</string>
+    <string name="title_activity_phmetric">PHmetric Titration</string>
+    <string name="title_activity_splash">E-Prayogshala</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_conductometric">Conductometric Titration</string>
+    <string name="title_activity_pdf_viewer">PdfViewerActivity</string>
+    <string name="title_activity_acid_base_titration">AcidBaseTitration</string>
+    <string name="title_activity_hardness_activity">HardnessWaterActivity</string>
+</resources>
