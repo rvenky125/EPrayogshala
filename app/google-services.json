@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "135132298205",
-    "firebase_url": "https://vlabs-chemistry-mvgr-default-rtdb.firebaseio.com",
-    "project_id": "vlabs-chemistry-mvgr",
-    "storage_bucket": "vlabs-chemistry-mvgr.appspot.com"
+    "project_number": "889875793126",
+    "project_id": "eprayogshala-25ab3",
+    "storage_bucket": "eprayogshala-25ab3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135132298205:android:1dd2f05c9730447773d434",
+        "mobilesdk_app_id": "1:889875793126:android:b2127ea0d0887773b6e727",
         "android_client_info": {
-          "package_name": "com.famas.vlabschemistrymvgr"
+          "package_name": "com.famas.eprayogshala"
         }
       },
       "oauth_client": [
         {
-          "client_id": "135132298205-0hen1s212bhvu7lnvedql6di7p1d8dea.apps.googleusercontent.com",
+          "client_id": "889875793126-78vmap8vjjolmbhf7hhcahejovrkt1dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famas.eprayogshala",
+            "certificate_hash": "39158d3f075545d1d3c8c3fa4ef4bcc245908646"
+          }
+        },
+        {
+          "client_id": "889875793126-btbqkdk0bk4c11v7j3k71er9htqrnkbq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrHKQhP1Oq7AIKo2AP7v2qwRnxESdano8"
+          "current_key": "AIzaSyAqADd6D0VPVk4Zd86L3k2HzONEeQ9zIm8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "135132298205-0hen1s212bhvu7lnvedql6di7p1d8dea.apps.googleusercontent.com",
+              "client_id": "889875793126-btbqkdk0bk4c11v7j3k71er9htqrnkbq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

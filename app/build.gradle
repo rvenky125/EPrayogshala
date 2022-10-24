@@ -6,13 +6,13 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 33
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.famas.vlabschemistrymvgr"
+        applicationId "com.famas.eprayogshala"
         minSdk 24
-        targetSdk 31
+        targetSdk 33
         versionCode 15
         versionName "3.3"
 
@@ -36,25 +36,31 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
-        useIR = true
+
     }
     buildFeatures {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion compose_version
-        kotlinCompilerVersion '1.5.31'
+        kotlinCompilerExtensionVersion "1.3.0"
     }
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+    namespace 'com.famas.eprayogshala'
 }
 
 
 dependencies {
 
-    implementation 'androidx.core:core-ktx:1.7.0'
-    implementation 'androidx.appcompat:appcompat:1.3.1'
-    implementation 'com.google.android.material:material:1.4.0'
-    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.0'
-    implementation 'androidx.activity:activity-compose:1.4.0'
+    implementation 'androidx.core:core-ktx:1.9.0'
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
+    implementation 'androidx.activity:activity-compose:1.6.0'
+    implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
@@ -67,14 +73,14 @@ dependencies {
     implementation("androidx.compose.material:material-icons-core:$compose_version")
     implementation("androidx.compose.material:material-icons-extended:$compose_version")
     androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
+    implementation 'androidx.compose.material3:material3:1.0.0-rc01'
 
-    implementation('androidx.constraintlayout:constraintlayout-compose:1.0.0-rc01')
-
-    implementation 'com.google.firebase:firebase-firestore-ktx:24.0.0'
-    implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
-    implementation 'com.google.android.gms:play-services-auth:19.2.0'
-    implementation 'com.google.firebase:firebase-storage-ktx:20.0.0'
-    implementation('androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0')
+    implementation('androidx.constraintlayout:constraintlayout-compose:1.1.0-alpha04')
+    implementation 'com.google.firebase:firebase-firestore-ktx:24.4.0'
+    implementation 'com.google.firebase:firebase-auth-ktx:21.1.0'
+    implementation 'com.google.android.gms:play-services-auth:20.3.0'
+    implementation 'com.google.firebase:firebase-storage-ktx:20.1.0'
+    implementation('androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1')
 
     //implementation 'dev.burnoo:compose-remember-preference:0.3.0'
 
@@ -85,20 +91,21 @@ dependencies {
     //implementation('com.github.barteksc:android-pdf-viewer:2.8.2')
 
     //Compose navigation
-    implementation "androidx.navigation:navigation-compose:2.4.0-beta02"
+    implementation "androidx.navigation:navigation-compose:2.5.2"
 
     //to convert live data to state
     implementation "androidx.compose.runtime:runtime-livedata:$compose_version"
+    debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
 
     def glide = "4.12.0"
     implementation "com.github.bumptech.glide:glide:$glide"
     kapt "com.github.bumptech.glide:compiler:$glide"
 
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
-    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4"
 
     //material motion
     //implementation('com.github.fornewid:material-motion-compose:0.4.5')
 
-    implementation 'com.google.android.play:core:1.10.2'
+    implementation 'com.google.android.play:core:1.10.3'
 }
